@@ -30,4 +30,7 @@ export class HomePage {
     // });
     // console.log("Starting background task:", this.taskId);
   }
+  stopTask() {
+    this.background.stop();
+  }
 }
