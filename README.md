@@ -10,7 +10,7 @@ currently capacitor's background plugin cant go over 181 seconds, this is a simp
 
 ## video
 
-... soon
+[https://youtu.be/gayExMdm7uY](https://youtu.be/gayExMdm7uY)
 
 ## steps
 
