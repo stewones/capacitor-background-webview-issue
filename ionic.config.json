@@ -1,5 +1,7 @@
 {
   "name": "capacitor-background-webview-issue",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
